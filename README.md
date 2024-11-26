@@ -1,9 +1,12 @@
-# About me
+# 自己紹介 - About me
 こんにちは、ap12です。<br>
 Hi, I'm ap12.
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap12-code&layout=compact&show_icons=true&theme=dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ap12-code&theme=dark&show_icons=ture" />
+</p>
 
-## My skills
 ![](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -28,3 +31,6 @@ Hi, I'm ap12.
 ![](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white)
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![](https://img.shields.io/badge/1Password-3B66BC.svg?style=for-the-badge&logo=1Password&logoColor=white)
+
+## 所属組織 - Organizations
+- [KuronekoServer](https://krnk.org) Admin
