@@ -1,6 +1,9 @@
-# 自己紹介 - About me
+# 私について - About me
+
 こんにちは、ap12です。<br>
-Hi, I'm ap12.
+どこにでもいるしがないエンジニア(?)です。
+
+<br>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap12-code&layout=compact&show_icons=true&theme=dark" />
@@ -32,5 +35,21 @@ Hi, I'm ap12.
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![](https://img.shields.io/badge/1Password-3B66BC.svg?style=for-the-badge&logo=1Password&logoColor=white)
 
+<br>
+
 ## 所属組織 - Organizations
-- [KuronekoServer](https://krnk.org) Admin
+- [KuronekoServer](https://krnk.org) 役員
+- [緑黄色クラフト](https://ryokuou-craft.com) 運営
+- [マイクラコマンド研究所](https://komaken.net) 運営
+
+<br>
+
+## 個人での制作物 - Activities
+- [AP12's Toolbox](https://tools.ap12.net)
+
+<br><br><br>
+<p align="center">
+  <a href="https://twitter.ap12.net"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+  <a href="https://zenn.dev/ap12"><img src="https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=Zenn&logoColor=white"></a>
+  <a href="https://www.youtube.com/@ap12akpc"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+</p>
