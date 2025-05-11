@@ -38,7 +38,7 @@
 <br>
 
 ## 所属組織 - Organizations
-- [KuronekoServer](https://krnk.org) 役員
+- [KuronekoServer](https://krnk.org) 運営
 - [緑黄色クラフト](https://ryokuou-craft.com) 運営
 - [マイクラコマンド研究所](https://komaken.net) 運営
 
